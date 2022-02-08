@@ -1,2 +1,3 @@
 # GitHub-Sample-Test
-This ismy sample test
+This is my sample test
+Hello this is my first learning GitHub sample
